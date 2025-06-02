@@ -31,11 +31,11 @@ A fully containerized, multi-camera video streaming system using Raspberry Pi cl
 - 🎯 Highlights: Built and deployed full-stack infrastructure for stream routing and load balancing
 - 🔍 Skills: Full-stack architecture, networking, real-time media control
 
-[Project Details ➜](projects/OpenStream-Video-Platform/description.md)
+[Project Details ➜](https://github.com/superbolt08/OpenStream/blob/main/OpenStream_README.md)
 
 ---
 
-### 🎯 Object Detection for AUV Navigation – Ogopogo Robotics
+### 🎯 Object Detection for AUV Navigation – Okanagan Marine Robotics
 ![model](projects/Object-Detection-AUV/model_architecture.png)
 
 Developed and deployed machine learning inference for underwater robotic navigation, with real-time vision-based detection.
@@ -47,7 +47,7 @@ Developed and deployed machine learning inference for underwater robotic navigat
   - Visualized detections for operator feedback
 - 💡 Application: Real-time mission-critical robotics control
 
-[Project Details ➜](projects/Object-Detection-AUV/description.md)
+[Project Details ➜](https://github.com/Okanagan-Marine-Robotics/okmr_auv)
 
 ---
 
