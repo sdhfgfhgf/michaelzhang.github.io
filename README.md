@@ -58,7 +58,7 @@ Built a robotic arm demo with analog signal control and servo actuation, using m
 
 - 🔌 Components: Arduino Uno, potentiometers, servo motors
 - 🔧 Features: Real-time PWM control, input conditioning, manual override
-- 🧠 Learning: Demonstrated embedded C programming and circuit-level troubleshooting
+- 🧠 Learning: Demonstrated embedded C progro
 
 [Project Details ➜](projects/Arduino-Robotics-Demos/description.md)
 
@@ -78,10 +78,8 @@ Built a robotic arm demo with analog signal control and servo actuation, using m
 
 ## 📬 Contact
 
-- **Email**: michael.zhang.ubc@example.com  
-- **LinkedIn**: [linkedin.com/in/michaelzhang-ubc](https://linkedin.com/in/michaelzhang-ubc)  
-- **GitHub**: [github.com/michaelzhang-ubc](https://github.com/michaelzhang-ubc)
+- **Email**: michaelzhang5528@gmail.com  
+- **LinkedIn**: [linkedin.com/in/michael-zhang-mkz](http://www.linkedin.com/in/micheal-zhang-mkz)  
+- **GitHub**: [github.com/sdhfgfhgf](http://www.github.com/sdhfgfhgf)
 
 ---
-
-Thank you for reviewing my portfolio. These projects reflect not only my technical foundation but also my commitment to building practical, scalable, and intelligent systems across domains.
