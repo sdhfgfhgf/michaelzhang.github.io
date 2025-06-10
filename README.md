@@ -88,6 +88,26 @@ Developed and deployed machine learning inference for underwater robotic navigat
 
 ---
 
+👥 Group Management System – C++ OOP Project
+
+A robust C++ application for managing group membership, developed independently with a focus on object-oriented programming, dynamic memory control, and efficient data operations.
+- 🧩 Features:
+- Add, remove, update, and view member details
+- Search and sort functionalities with high performance
+- Command-line interface with real-time feedback
+- 🧠 Techniques Used:
+- Polymorphism, inheritance, encapsulation
+- Pointer-based memory management and reference optimization
+- Modular design with clean separation of logic and UI
+- 📊 Impact:
+- Reduced manual tracking by over 40%
+- Designed for scalability and reusability in future team-based projects
+- 📅 Duration: June – August 2024
+
+[Project Details ➜](https://github.com/sdhfgfhgf/Group-Management-System)
+
+---
+
 ## 📂 Other Projects (Coming Soon)
 
 - **IoT Temperature Logger with Cloud Sync** – Sensor-driven data pipeline to remote dashboard (Node.js + MQTT + MongoDB)
