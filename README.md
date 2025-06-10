@@ -35,7 +35,7 @@ A fully containerized, multi-camera video streaming system using Raspberry Pi cl
 
 ---
 
-➕ 4-bit Adder/Subtractor in Verilog – APSC 262 Digital Logic Lab
+➕ 4-bit Adder/Subtractor in Verilog – APSC 262 Digital Logic Lab Project
 
 Designed and implemented a 4-bit signed binary calculator in Verilog, capable of performing addition and subtraction using modular design principles (half adders, full adders, and ripple-carry logic).
 - 🧮 Components:
@@ -52,7 +52,7 @@ Project Details ➜
 
 ---
 
-⏱️ BCD Counter System in Verilog – APSC 270 Digital Logic Lab
+⏱️ BCD Counter System in Verilog – APSC 262 Digital Logic Lab Project
 
 Designed and implemented a Binary-Coded Decimal (BCD) counter with both approximate and improved-timing versions. The system displays live second, tenth-second, and hundredth-second counts using a 50 MHz clock input.
 - ⚙️ Features:
