@@ -51,19 +51,6 @@ Developed and deployed machine learning inference for underwater robotic navigat
 
 ---
 
-### 🦾 Analog-Controlled Robotic Arm (Arduino)
-![diagram](projects/Arduino-Robotics-Demos/wiring_diagram.png)
-
-Built a robotic arm demo with analog signal control and servo actuation, using microcontroller-level input processing.
-
-- 🔌 Components: Arduino Uno, potentiometers, servo motors
-- 🔧 Features: Real-time PWM control, input conditioning, manual override
-- 🧠 Learning: Demonstrated embedded C progro
-
-[Project Details ➜](projects/Arduino-Robotics-Demos/description.md)
-
----
-
 ## 📂 Other Projects (Coming Soon)
 
 - **IoT Temperature Logger with Cloud Sync** – Sensor-driven data pipeline to remote dashboard (Node.js + MQTT + MongoDB)
@@ -72,7 +59,7 @@ Built a robotic arm demo with analog signal control and servo actuation, using m
 
 ---
 
-## 📄 [Download My Resume](resume.pdf)
+## 📄 [Download My Resume](https://www.dropbox.com/scl/fi/2f9vepmdo2c6utypyvvug/Michael-Zhang-CO-OP-Resume.pdf?rlkey=5uzeh0tdvxjb7pgp2di3kd5mv&st=fu1tlwxm&dl=0)
 
 ---
 
