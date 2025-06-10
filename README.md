@@ -35,6 +35,23 @@ A fully containerized, multi-camera video streaming system using Raspberry Pi cl
 
 ---
 
+➕ 4-bit Adder/Subtractor in Verilog – APSC 262 Digital Logic Lab
+
+Designed and implemented a 4-bit signed binary calculator in Verilog, capable of performing addition and subtraction using modular design principles (half adders, full adders, and ripple-carry logic).
+	•	🧮 Components:
+	•	Half Adder (HA), Full Adder (FA), Ripple-Carry Adder (RCA)
+	•	Adder/Subtractor with XOR-based 2’s complement logic
+	•	🧰 Tools: Quartus II, Altera DE1 Board (simulated), Verilog HDL
+	•	✅ Functionality:
+	•	Performs addition/subtraction of signed 4-bit binary numbers
+	•	Detects overflow conditions
+	•	Modular Verilog design reused across components
+	•	💡 Learning Outcome: Gained hands-on experience with hardware-level arithmetic logic design, modular coding, and circuit verification.
+
+Project Details ➜
+
+---
+
 ### 🎯 Object Detection for AUV Navigation – Okanagan Marine Robotics
 ![model](projects/Object-Detection-AUV/model_architecture.png)
 
