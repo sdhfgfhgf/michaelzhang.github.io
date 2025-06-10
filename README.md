@@ -52,6 +52,26 @@ Project Details ➜
 
 ---
 
+⏱️ BCD Counter System in Verilog – APSC 270 Digital Logic Lab
+
+Designed and implemented a Binary-Coded Decimal (BCD) counter with both approximate and improved-timing versions. The system displays live second, tenth-second, and hundredth-second counts using a 50 MHz clock input.
+	•	⚙️ Features:
+	•	Real-time counter with 3-digit and 4-digit BCD display
+	•	Pushbutton reset functionality
+	•	Modularized 7-segment decoder
+	•	🧰 Tools: Verilog HDL, Quartus II, Altera DE1 Board (simulated)
+	•	🧩 Two Counter Variants:
+	•	Part I: Simple 3-digit BCD counter with rough timing (0.67s intervals)
+	•	Part II: Precision 4-digit BCD counter with near-accurate 0.01s intervals
+	•	💡 Concepts:
+	•	Always blocks, non-blocking assignments, clock edge sensitivity
+	•	Bit-length calculation for time-accurate counting
+	•	7-segment display encoding logic
+
+Project Details ➜
+
+---
+
 ### 🎯 Object Detection for AUV Navigation – Okanagan Marine Robotics
 ![model](projects/Object-Detection-AUV/model_architecture.png)
 
