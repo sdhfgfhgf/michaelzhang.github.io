@@ -24,12 +24,12 @@ This repository showcases a curated set of my technical projects. Each project d
 ### 📡 OpenStream – Distributed Video Streaming Platform
 <img src="https://github.com/superbolt08/OpenStream/blob/main/images/PiStack1.jpeg" alt="Pi Stack" width="50%" />
 
-A fully containerized, multi-camera video streaming system using Raspberry Pi clusters and HLS for seamless real-time delivery.
+A real-time video streaming platform built with a containerized microservice architecture. It uses a Raspberry Pi cluster for distributed deployment and integrates HLS, WebSocket, and Ant Media Server for low-latency delivery and session control.
+- 🔧 Tech Stack: Next.js, WebSocket, Ant Media Server, Docker, FFmpeg
+- 📦 Backend: Prisma + MongoDB for managing stream sessions, chat, and user authentication
+- 🎯 Highlights: Designed and deployed a full-stack infrastructure for stream startup, routing, user sessions, and WebSocket-based real-time chat
+- 🔍 Skills Applied: Full-stack engineering, containerization, real-time networking, video streaming protocols, and database integration
 
-- 🔧 Tech: Next.js, WebSocket, Ant Media Server, Docker, FFmpeg
-- 📦 Backend: Dynamic session management with Prisma & MongoDB
-- 🎯 Highlights: Built and deployed full-stack infrastructure for stream routing and load balancing
-- 🔍 Skills: Full-stack architecture, networking, real-time media control
 
 [Project Details ➜](https://github.com/superbolt08/OpenStream/blob/main/OpenStream_README.md)
 
