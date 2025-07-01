@@ -22,7 +22,7 @@ This repository showcases a curated set of my technical projects. Each project d
 ## 🚀 Featured Projects
 
 ### 📡 OpenStream – Distributed Video Streaming Platform
-![streaming UI](https://github.com/superbolt08/OpenStream/blob/main/images/PiStack1.jpeg)
+<img src="https://github.com/superbolt08/OpenStream/blob/main/images/PiStack1.jpeg" alt="Pi Stack" width="50%" />
 
 A fully containerized, multi-camera video streaming system using Raspberry Pi clusters and HLS for seamless real-time delivery.
 
