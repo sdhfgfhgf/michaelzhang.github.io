@@ -1,6 +1,6 @@
 # 🛠 💻 ⚡️ Michael Zhang – Computer Engineering student @ UBC
 
-Welcome to my project portfolio. I’m a Computer Engineering student at the University of British Columbia, passionate about solving real-world problems through a blend of **software engineering**, **hardware integration**, and **intelligent systems design**.
+Welcome to my GitHub project portfolio. I’m a Computer Engineering student at the University of British Columbia, passionate about solving real-world problems through a blend of **software engineering**, **hardware integration**, and **intelligent systems design**.
 
 This repository showcases a curated set of my technical projects. Each project demonstrates a unique combination of skills in system architecture, embedded development, robotics, data engineering, and full-stack implementation. All projects are based on **real, hands-on experience**—with documented code, visuals, and outcomes.
 
