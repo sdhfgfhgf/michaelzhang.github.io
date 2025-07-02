@@ -1,4 +1,4 @@
-# 🛠 💻 ⚡️ Michael Zhang – 3rd Year Computer Engineering student @ UBC
+# 🛠 💻 ⚡️ Michael Zhang – Computer Engineering student @ UBC
 
 Welcome to my project portfolio. I’m a Computer Engineering student at the University of British Columbia, passionate about solving real-world problems through a blend of **software engineering**, **hardware integration**, and **intelligent systems design**.
 
