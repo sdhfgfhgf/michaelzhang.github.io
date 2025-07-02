@@ -157,7 +157,7 @@ A robust C++ application for managing group membership, developed independently 
 <img src="https://github.com/sdhfgfhgf/Confession-Webpage/blob/main/Image/demo.png" alt="Confession Demo" width="50%" />
 
 
-Designed and customized a responsive HTML/CSS webpage to deliver a heartfelt, animated love confession. Originally created in 2024 as a personalized gift, the project features animated hearts, poetic bilingual text, and an emotionally themed layout.
+Designed and customized a responsive HTML/CSS webpage to deliver a heartfelt, animated love confession. The project features animated hearts, poetic bilingual text, and an emotionally themed layout.
 -	🎨 Frontend Features
   - Pure HTML and CSS (no JavaScript)
   - Animated heart visuals using CSS @keyframes
