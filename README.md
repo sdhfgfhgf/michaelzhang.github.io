@@ -35,15 +35,16 @@ A real-time video streaming platform built with a containerized microservice arc
 
 ---
 
-➕ 4-bit Adder/Subtractor in Verilog – APSC 262 Digital Logic Lab Project
+➕ FPGA 4-bit Adder/Subtractor in Verilog – APSC 262 Digital Logic Lab Project
 
 <img src="https://github.com/sdhfgfhgf/4-bit-Adder-Subtractor/blob/main/Image/HEIF%20Image.jpeg" alt="demo" width="50%" />
 
 Designed and implemented a 4-bit signed binary calculator in Verilog, capable of performing addition and subtraction using modular design principles (half adders, full adders, and ripple-carry logic).
+
 - 🧮 Components:
 - Half Adder (HA), Full Adder (FA), Ripple-Carry Adder (RCA)
 - Adder/Subtractor with XOR-based 2’s complement logic
-- 🧰 Tools: Quartus II, Altera DE1 Board (simulated), Verilog HDL
+- 🧰 Tools: Quartus II, Altera DE1 Board, Verilog HDL
 - ✅ Functionality:
 - Performs addition/subtraction of signed 4-bit binary numbers
 - Detects overflow conditions
@@ -54,23 +55,21 @@ Designed and implemented a 4-bit signed binary calculator in Verilog, capable of
 
 ---
 
-⏱️ BCD Counter System in Verilog – APSC 262 Digital Logic Lab Project
+⏱️ FPGA BCD Counter System in Verilog – APSC 262 Digital Logic Lab Project
 
 <img src="https://github.com/sdhfgfhgf/fpga-bcd-timer/blob/main/Image/HEIF%20Image.jpeg" alt="demo_timer" width="50%" />
 
-Designed and implemented a Binary-Coded Decimal (BCD) counter with both approximate and improved-timing versions. The system displays live second, tenth-second, and hundredth-second counts using a 50 MHz clock input.
+Designed and implemented a Binary-Coded Decimal (BCD) counter system featuring both approximate and precision-timed versions. The design displays real-time second, tenth-second, and hundredth-second counts using a 50 MHz base clock on an Altera DE1 board.
+
 - ⚙️ Features:
-- Real-time counter with 3-digit and 4-digit BCD display
-- Pushbutton reset functionality
-- Modularized 7-segment decoder
-- 🧰 Tools: Verilog HDL, Quartus II, Altera DE1 Board (simulated)
-- 🧩 Two Counter Variants:
-- Part I: Simple 3-digit BCD counter with rough timing (0.67s intervals)
-- Part II: Precision 4-digit BCD counter with near-accurate 0.01s intervals
+- Real-time 3-digit and 4-digit BCD output on 7-segment displays
+- Pushbutton-based active-low reset
+- Modular Verilog design with reusable 7-segment decoder module
+- 🧰 Tools: Verilog HDL, Quartus II, Altera DE1 Cyclone II FPGA development board
 - 💡 Concepts:
-- Always blocks, non-blocking assignments, clock edge sensitivity
-- Bit-length calculation for time-accurate counting
-- 7-segment display encoding logic
+- Synchronous design using always blocks and non-blocking assignments
+- Timing accuracy via bit-width calculation: 2^x × 20ns ≈ 0.01s → x ≈ 19
+- BCD cascading logic and 7-segment display encoding
 
 [Project Details ➜](https://github.com/sdhfgfhgf/fpga-bcd-timer/tree/main)
 
