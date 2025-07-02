@@ -56,6 +56,8 @@ Designed and implemented a 4-bit signed binary calculator in Verilog, capable of
 
 ⏱️ BCD Counter System in Verilog – APSC 262 Digital Logic Lab Project
 
+<img src="https://github.com/sdhfgfhgf/fpga-bcd-timer/blob/main/Image/HEIF%20Image.jpeg" alt="demo_timer" width="50%" />
+
 Designed and implemented a Binary-Coded Decimal (BCD) counter with both approximate and improved-timing versions. The system displays live second, tenth-second, and hundredth-second counts using a 50 MHz clock input.
 - ⚙️ Features:
 - Real-time counter with 3-digit and 4-digit BCD display
