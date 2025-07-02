@@ -25,10 +25,39 @@ This repository showcases a curated set of my technical projects. Each project d
 <img src="Image/IMG_2123.jpeg" alt="Home Page" width="50%" />
 
 A real-time video streaming platform built with a containerized microservice architecture. It uses a Raspberry Pi cluster for distributed deployment and integrates HLS, WebSocket, and Ant Media Server for low-latency delivery and session control.
-- 🔧 Tech Stack: Next.js, WebSocket, Ant Media Server, Docker, FFmpeg
-- 📦 Backend: Prisma + MongoDB for managing stream sessions, chat, and user authentication
-- 🎯 Highlights: Designed and deployed a full-stack infrastructure for stream startup, routing, user sessions, and WebSocket-based real-time chat
-- 🔍 Skills Applied: Full-stack engineering, containerization, real-time networking, video streaming protocols, and database integration
+You’re off to a solid start, but for your OpenStream project — based on everything we’ve discussed — that list is incomplete. To accurately reflect the full architecture and implementation, here’s a more complete and structured version of your tech stack:
+
+⸻
+
+🔧 Tech Stack
+- Frontend / UI
+  - Next.js (React + TypeScript)
+  - Tailwind CSS or your CSS framework (if used)
+  - Streaming / Media
+  - Ant Media Server (WebRTC + HLS broadcasting
+  - FFmpeg (for encoding/transcoding)
+  - HLS.js (if used for client playback in-browser)
+- Backend / Infrastructure
+  - Node.js API layer (inside Next.js)
+  - WebSocket (real-time messaging / session control)
+  - Prisma (ORM for MongoDB)
+  - MongoDB (session/user metadata storage)
+- DevOps / Deployment
+  - Docker (containerization)
+  - Docker Compose (if used to orchestrate services)
+  - Raspberry Pi Cluster (for distributed load-balanced deployment)
+
+- 🎯 Highlights:
+  - 	Architected and deployed a full-stack streaming platform with support for multi-user session management, real-time video delivery, and WebSocket-based chat
+  - 	Integrated Ant Media Server and FFmpeg into a containerized pipeline for live and HLS-based playback
+  - 	Built dynamic user session handling with MongoDB and Prisma ORM
+
+- 🔍 Skills Applied:
+  - Full-stack system design (Next.js, Node.js, WebSocket)
+  - Containerization and deployment using Docker
+  - Real-time media streaming (WebRTC, HLS, FFmpeg)
+  - Session and data modeling with MongoDB & Prisma
+  - Low-latency communication over WebSocket and API endpoints
 
 
 [Project Details ➜](https://github.com/superbolt08/OpenStream/blob/main)
@@ -42,13 +71,16 @@ A real-time video streaming platform built with a containerized microservice arc
 Designed and implemented a 4-bit signed binary calculator in Verilog, capable of performing addition and subtraction using modular design principles (half adders, full adders, and ripple-carry logic).
 
 - ⚙️ Components:
-- Half Adder (HA), Full Adder (FA), Ripple-Carry Adder (RCA)
-- Adder/Subtractor with XOR-based 2’s complement logic
-- 🧰 Tools: Intel Quartus II, Altera DE1 Cyclone II FPGA development board, Verilog HDL
+  - Half Adder (HA), Full Adder (FA), Ripple-Carry Adder (RCA)
+  - Adder/Subtractor with XOR-based 2’s complement logic
+- 🧰 Tools:
+  - Intel Quartus II
+  - Altera DE1 Cyclone II FPGA development board
+  - Verilog HDL
 - ✅ Functionality:
-- Performs signed 4-bit binary addition and subtraction
-- Detects overflow conditions in arithmetic operations
-- Modular structure promotes design reuse and testability
+  - Performs signed 4-bit binary addition and subtraction
+  - Detects overflow conditions in arithmetic operations
+  - Modular structure promotes design reuse and testability
 - 💡 Learning Outcome:
   - Developed hands-on understanding of arithmetic logic design
   - Practiced modular coding and verification in hardware
@@ -65,14 +97,17 @@ Designed and implemented a 4-bit signed binary calculator in Verilog, capable of
 Designed and implemented a Binary-Coded Decimal (BCD) counter system featuring both approximate and precision-timed versions. The design displays real-time second, tenth-second, and hundredth-second counts using a 50 MHz base clock on an Altera DE1 board.
 
 - ⚙️ Features:
-- Real-time 3-digit and 4-digit BCD output on 7-segment displays
-- Pushbutton-based active-low reset
-- Modular Verilog design with reusable 7-segment decoder module
-- 🧰 Tools: Verilog HDL, Quartus II, Altera DE1 Cyclone II FPGA development board
+  - Real-time 3-digit and 4-digit BCD output on 7-segment displays
+  - Pushbutton-based active-low reset
+  - Modular Verilog design with reusable 7-segment decoder module
+- 🧰 Tools:
+  - Verilog HDL
+  - Quartus II
+  - Altera DE1 Cyclone II FPGA development board
 - 💡 Concepts:
-- Synchronous design using always blocks and non-blocking assignments
-- Timing accuracy via bit-width calculation: 2^x × 20ns ≈ 0.01s → x ≈ 19
-- BCD cascading logic and 7-segment display encoding
+  - Synchronous design using always blocks and non-blocking assignments
+  - Timing accuracy via bit-width calculation: 2^x × 20ns ≈ 0.01s → x ≈ 19
+  - BCD cascading logic and 7-segment display encoding
 
 [Project Details ➜](https://github.com/sdhfgfhgf/fpga-bcd-timer/tree/main)
 
@@ -83,7 +118,12 @@ Designed and implemented a Binary-Coded Decimal (BCD) counter system featuring b
 
 Developed and deployed machine learning inference for underwater robotic navigation, with real-time vision-based detection.
 
-- 🧠 Tools: YOLOv5, PyTorch, Jetson Nano, ROS2, OpenCV
+- 🧠 Tools:
+  - YOLOv5
+  - PyTorch
+  - NVIDIA Jetson Nano
+  - ROS2
+  - OpenCV
 - 🛠 Contributions:
   - Optimized custom object detection models
   - Integrated ML pipeline into a live robotic ROS2 environment
@@ -98,16 +138,16 @@ Developed and deployed machine learning inference for underwater robotic navigat
 
 A robust C++ application for managing group membership, developed independently with a focus on object-oriented programming, dynamic memory control, and efficient data operations.
 - 🧩 Features:
-- Add, remove, update, and view member details
-- Search and sort functionalities with high performance
-- Command-line interface with real-time feedback
-- 🧠 Techniques Used:
-- Polymorphism, inheritance, encapsulation
-- Pointer-based memory management and reference optimization
-- Modular design with clean separation of logic and UI
+  - Add, remove, update, and view member details
+  - Search and sort functionalities with high performance
+  - Command-line interface with real-time feedback
+  - 🧠 Techniques Used:
+  - Polymorphism, inheritance, encapsulation
+  - Pointer-based memory management and reference optimization
+  - Modular design with clean separation of logic and UI
 - 📊 Impact:
-- Reduced manual tracking by over 40%
-- Designed for scalability and reusability in future team-based projects
+  - Reduced manual tracking by over 40%
+  - Designed for scalability and reusability in future team-based projects
 - 📅 Duration: June – August 2024
 
 [Project Details ➜](https://github.com/sdhfgfhgf/Group-Management-System)
