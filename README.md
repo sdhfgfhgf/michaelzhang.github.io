@@ -35,21 +35,24 @@ A real-time video streaming platform built with a containerized microservice arc
 
 ---
 
-➕ FPGA 4-bit Adder/Subtractor in Verilog – APSC 262 Digital Logic Lab Project
+🧮 FPGA 4-bit Adder/Subtractor in Verilog – APSC 262 Digital Logic Lab Project
 
 <img src="https://github.com/sdhfgfhgf/4-bit-Adder-Subtractor/blob/main/Image/HEIF%20Image.jpeg" alt="demo" width="50%" />
 
 Designed and implemented a 4-bit signed binary calculator in Verilog, capable of performing addition and subtraction using modular design principles (half adders, full adders, and ripple-carry logic).
 
-- 🧮 Components:
+- ⚙️ Components:
 - Half Adder (HA), Full Adder (FA), Ripple-Carry Adder (RCA)
 - Adder/Subtractor with XOR-based 2’s complement logic
-- 🧰 Tools: Quartus II, Altera DE1 Board, Verilog HDL
+- 🧰 Tools: Intel Quartus II, Altera DE1 Cyclone II FPGA development board, Verilog HDL
 - ✅ Functionality:
-- Performs addition/subtraction of signed 4-bit binary numbers
-- Detects overflow conditions
-- Modular Verilog design reused across components
-- 💡 Learning Outcome: Gained hands-on experience with hardware-level arithmetic logic design, modular coding, and circuit verification.
+- Performs signed 4-bit binary addition and subtraction
+- Detects overflow conditions in arithmetic operations
+- Modular structure promotes design reuse and testability
+- 💡 Learning Outcome:
+  - Developed hands-on understanding of arithmetic logic design
+  - Practiced modular coding and verification in hardware
+  - Gained insight into 2’s complement arithmetic and overflow detection in digital systems
 
 [Project Details ➜](https://github.com/sdhfgfhgf/4-bit-Adder-Subtractor/tree/main)
 
