@@ -70,7 +70,7 @@ Designed and implemented a Binary-Coded Decimal (BCD) counter with both approxim
 - Bit-length calculation for time-accurate counting
 - 7-segment display encoding logic
 
-Project Details ➜
+[Project Details ➜](https://github.com/sdhfgfhgf/fpga-bcd-timer/tree/main)
 
 ---
 
