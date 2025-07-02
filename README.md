@@ -48,9 +48,9 @@ You’re off to a solid start, but for your OpenStream project — based on ever
   - Raspberry Pi Cluster (for distributed load-balanced deployment)
 
 - 🎯 Highlights:
-  - 	Architected and deployed a full-stack streaming platform with support for multi-user session management, real-time video delivery, and WebSocket-based chat
-  - 	Integrated Ant Media Server and FFmpeg into a containerized pipeline for live and HLS-based playback
-  - 	Built dynamic user session handling with MongoDB and Prisma ORM
+  - Architected and deployed a full-stack streaming platform with support for multi-user session management, real-time video delivery, and WebSocket-based chat
+  - Integrated Ant Media Server and FFmpeg into a containerized pipeline for live and HLS-based playback
+  - Built dynamic user session handling with MongoDB and Prisma ORM
 
 - 🔍 Skills Applied:
   - Full-stack system design (Next.js, Node.js, WebSocket)
