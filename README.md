@@ -171,7 +171,7 @@ Designed and customized a responsive HTML/CSS webpage to deliver a heartfelt, an
   - Practiced pixel-perfect layout control and color theming
   - Explored expressive design through emotionally driven UI
 
-🔗 Project Repository
+[Project Details ➜](https://github.com/sdhfgfhgf/Confession-Webpage)
 
 ---
 
