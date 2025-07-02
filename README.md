@@ -22,12 +22,10 @@ This repository showcases a curated set of my technical projects. Each project d
 ## 🚀 Featured Projects
 
 ### 📡 OpenStream – Distributed Video Streaming Platform
+
+Designed and implemented a full-stack distributed video streaming platform using Next.js, WebSocket, and Ant Media Server, featuring real-time broadcasting, HLS playback, session management with MongoDB, and containerized deployment on a Kubernetes Raspberry Pi cluster.
+
 <img src="Image/IMG_2123.jpeg" alt="Home Page" width="50%" />
-
-A real-time video streaming platform built with a containerized microservice architecture. It uses a Raspberry Pi cluster for distributed deployment and integrates HLS, WebSocket, and Ant Media Server for low-latency delivery and session control.
-You’re off to a solid start, but for your OpenStream project — based on everything we’ve discussed — that list is incomplete. To accurately reflect the full architecture and implementation, here’s a more complete and structured version of your tech stack:
-
-⸻
 
 🔧 Tech Stack
 - Frontend / UI
