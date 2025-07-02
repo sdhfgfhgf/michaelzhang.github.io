@@ -31,11 +31,13 @@ A real-time video streaming platform built with a containerized microservice arc
 - 🔍 Skills Applied: Full-stack engineering, containerization, real-time networking, video streaming protocols, and database integration
 
 
-[Project Details ➜](https://github.com/superbolt08/OpenStream/blob/main/OpenStream_README.md)
+[Project Details ➜](https://github.com/superbolt08/OpenStream/blob/main)
 
 ---
 
 ➕ 4-bit Adder/Subtractor in Verilog – APSC 262 Digital Logic Lab Project
+
+<img src="https://github.com/sdhfgfhgf/4-bit-Adder-Subtractor/blob/main/Image/HEIF%20Image.jpeg" alt="demo" width="50%" />
 
 Designed and implemented a 4-bit signed binary calculator in Verilog, capable of performing addition and subtraction using modular design principles (half adders, full adders, and ripple-carry logic).
 - 🧮 Components:
@@ -48,7 +50,7 @@ Designed and implemented a 4-bit signed binary calculator in Verilog, capable of
 - Modular Verilog design reused across components
 - 💡 Learning Outcome: Gained hands-on experience with hardware-level arithmetic logic design, modular coding, and circuit verification.
 
-Project Details ➜
+[Project Details ➜](https://github.com/sdhfgfhgf/4-bit-Adder-Subtractor/tree/main)
 
 ---
 
